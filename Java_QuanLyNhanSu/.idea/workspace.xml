@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dcc1ee27-e6da-4e3a-a08d-b579f8315df4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bus/BangChamCongBUS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bus/ChamCongBUS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bus/ChiTietLuongBUS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bus/ChucVuBUS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bus/HopDongLaoDongBUS$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bus/HopDongLaoDongBUS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bus/KhenThuongBUS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bus/LuongBUS$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bus/LuongBUS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bus/NhanVienBUS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bus/PhongBanBUS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bus/TaiKhoanBUS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dao/BangChamCongDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dao/ChamCongDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dao/ChiTietLuongDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dao/ChucVuDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dao/HopDongLaoDongDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dao/KhenThuongDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dao/LuongDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dao/NhanVienDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dao/PhongBanDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dao/TaiKhoanDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dto/BangChamCongDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dto/ChamCongDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dto/ChiTietLuongDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dto/ChucVuDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dto/HopDongLaoDongDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dto/KhenThuongDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dto/LuongDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dto/NhanVienDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dto/PhongBanDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dto/TaiKhoanDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/font/UVNMayChuP.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/font/UVNMayChuP_I.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/font/UVNMayChuP_R.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/ChamCongGUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/ChamCongGUI$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/ChamCongGUI$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/ChamCongGUI$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/ChamCongGUI$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/ChamCongGUI$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/ChamCongGUI$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/ChamCongGUI$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/ChamCongGUI$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/ChamCongGUI$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/ChamCongGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/ContentPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/HeaderPanel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/HeaderPanel$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/HeaderPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/KhenThuongGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/LuongGUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/LuongGUI$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/LuongGUI$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/LuongGUI$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/LuongGUI$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/LuongGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/MainFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/MainLauncher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/MyProps$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/MyProps$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/MyProps$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/MyProps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/NavPanel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/NavPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/NhanVienGUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/NhanVienGUI$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/NhanVienGUI$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/NhanVienGUI$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/NhanVienGUI$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/NhanVienGUI$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/NhanVienGUI$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/NhanVienGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/PhongBanGUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/PhongBanGUI$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/PhongBanGUI$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/PhongBanGUI$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/PhongBanGUI$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/PhongBanGUI$14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/PhongBanGUI$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/PhongBanGUI$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/PhongBanGUI$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/PhongBanGUI$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/PhongBanGUI$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/PhongBanGUI$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/PhongBanGUI$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/PhongBanGUI$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/PhongBanGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/ThongKeGUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/ThongKeGUI$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/gui/ThongKeGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/img/io.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/img/passwd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/img/user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/pdf/blank.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/util/BCrypt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/util/MySqlDataAccessHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/util/RoundJTextField.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/util/RoundedCornerBorder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bus/BangChamCongBUS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bus/BangChamCongBUS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/ChamCongGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/ChamCongGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/LoginGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/LoginGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/MainLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/MainLauncher.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ptDYDo9FNMAlsSIkCxikiYLNPY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MainLauncher.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/caro/poi-ooxml-3.11.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="MainLauncher" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Eclipse Adoptium/jdk-17.0.10.7-hotspot" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="gui.MainLauncher" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\Admin\Downloads\openjfx-17.0.13_windows-x64_bin-sdk\javafx-sdk-17.0.13\lib&quot; --add-modules javafx.controls,javafx.fxml " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcc1ee27-e6da-4e3a-a08d-b579f8315df4" name="Changes" comment="" />
+      <created>1733576524036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733576524036</updated>
+      <workItem from="1733576524955" duration="2576000" />
+      <workItem from="1733579134778" duration="73000" />
+      <workItem from="1733579380997" duration="4000" />
+      <workItem from="1733579587248" duration="227000" />
+      <workItem from="1733579992057" duration="4000" />
+      <workItem from="1733619714851" duration="163000" />
+      <workItem from="1733620143697" duration="150000" />
+      <workItem from="1733625103425" duration="139000" />
+      <workItem from="1733625651084" duration="715000" />
+      <workItem from="1733626527775" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
